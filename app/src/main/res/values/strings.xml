@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cek_dosen</string>
+    <string-array name="pembayaran">
+        <item>Teknik Elektro</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Komputer</item>
+        <item>Teknik Informatika</item>
+        <item>Teknologi Informasi</item>
+        <item>Sistem Informasi</item>
+        <item>Sistem Informasi Akuntansi</item>
+        <item>Sistem Informasi</item>
+    </string-array>
+</resources>
